@@ -32,12 +32,12 @@ ignore_colors = [
 #priority = 1
 
 
-#[[structure]]
-#name = "flagge-uk"
-#file = "../bonjwa/Flagge_UK.png"
-#startx = 197
-#starty = 171
-#priority = 1
+[[structure]]
+name = "flagge-uk"
+file = "../bonjwa/Flagge_UK.png"
+startx = 176
+starty = 171
+priority = 1
 
 #[[structure]]
 #name = "bonjwa-flagge"
