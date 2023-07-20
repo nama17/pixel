@@ -17,16 +17,32 @@ ignore_colors = [
 "3" = 10
 
 [[structure]]
-name = "bonjwa-matteo_sad_it_freigestellt"
-file = "../bonjwa/Matteo_sad_it_freigestellt_100x72.png"
+name = "flage_de"
+file = "../bonjwa/flagge_de_50-110.png"
 startx = 0
-starty = 0
+starty = 50
 priority = 1
+
+
+[[structure]]
+name = "bonjwa-flagge"
+file = "../bonjwa/Flagge_191919.png"
+startx = 360
+starty = 53
+priority = 0
+
 
 [[structure]]
 name = "bonjwa-logo"
 file = "../bonjwa/Bonjwa_Logo_27x27.png"
-startx = 100
-starty = 44
+startx = 570
+starty = 110
+priority = 10
+
+[[structure]]
+name = "bonjwa-matteo-zeigefinger"
+file = "../bonjwa/Matteo_zeigefinger.png"
+startx = 500
+starty = 95
 priority = 5
 
