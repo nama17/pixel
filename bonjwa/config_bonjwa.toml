@@ -16,12 +16,12 @@ ignore_colors = [
 "2" = 5
 "3" = 10
 
-[[structure]]
-name = "flage_nl"
-file = "../bonjwa/flagge_nl_0-49.png"
-startx = 0
-starty = 20
-priority = 1
+#[[structure]]
+#name = "flage_nl"
+#file = "../bonjwa/flagge_nl_0-49.png"
+#startx = 0
+#starty = 20
+#priority = 1
 
 [[structure]]
 name = "flage_de"
