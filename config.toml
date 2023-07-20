@@ -1,9 +1,10 @@
 ignore_colors = [
-	[0, 0, 0, 0],
-	# [0, 0, 0, 255], # filter all black
+ [0, 0, 0, 0],
+ # [0, 0, 0, 255], # filter all black
 ]
 
 # priority: higher number = higher chance of being placed
+# r/placeDE overlay target: https://place.army/overlay_target.png
 
 [versions]
 "browser" = 20
@@ -16,783 +17,81 @@ ignore_colors = [
 "2" = 5
 "3" = 10
 
-# [[structure]]
-# name = "flagge-ost"
-# file = "images/flagge-ost.png"
-# startx = 1332
-# starty = 1122
-# priority = 1
-
-# [[structure]]
-# name = "flagge_sued_west"
-# file = "images/flagge_sued_west.png"
-# startx = 0
-# starty = 1133
-# priority = 1
+#[[structure]]
+#name = "flage_nl"
+#file = "../bonjwa/flagge_nl_0-49.png"
+#startx = 0
+#starty = 20
+#priority = 1
 
 [[structure]]
-name = "rplacede_schriftzug"
-file = "images/rplacede_schriftzug.png"
-priority_file = "images/rplacede_schriftzug-priority.png"
+name = "flage_de"
+file = "../bonjwa/flagge_de_50-110.png"
 startx = 0
-starty = 856
-priority = 3
-
-[[structure]]
-name = "maus"
-file = "images/maus.png"
-priority_file = "images/maus-priority.png"
-startx = 45
-starty = 832
-priority = 2
-
-[[structure]]
-name = "sprich_deutsch"
-file = "images/sprich_deutsch_schriftzug.png"
-startx = 113
-starty = 831
-priority = 2
-
-[[structure]]
-name = "adler"
-file = "images/adler.png"
-priority_file = "images/adler-priority.png"
-startx = 254
-starty = 830
-priority = 2
-
-[[structure]]
-name = "omori"
-file = "images/omori.png"
-startx = 1658
-starty = 1140
-priority = 2
-
-[[structure]]
-name = "bier_brot"
-file = "images/bier_brot.png"
-priority_file = "images/bier_brot-priority.png"
-startx = 169
-starty = 830
-priority = 2
-
-[[structure]]
-name = "mist"
-file = "images/mist.png"
-startx = 217
-starty = 833
+starty = 50
 priority = 1
 
-[[structure]]
-name = "pootaato"
-file = "images/pootaato.png"
-startx = 115
-starty = 1123
-priority = 2
-
-# [[structure]]
-# name = "saeule"
-# file = "images/saeule.png"
-# startx = 431
-# starty = 829
-# priority = 0
-
-[[structure]]
-name = "eu-taube"
-file = "images/eu-taube.png"
-priority_file = "images/eu-taube-priority.png"
-startx = 388
-starty = 833
-priority = 2
-
-[[structure]]
-name = "autobahn"
-file = "images/autobahn.png"
-startx = 539
-starty = 838
-priority = 2
-
-[[structure]]
-name = "verspaetung"
-file = "images/verspaetung.png"
-startx = 300
-starty = 847
-priority = 2
-
-[[structure]]
-name = "ice"
-file = "images/ice.png"
-priority_file = "images/ice-priority.png"
-startx = 326
-starty = 849
-priority = 2
-
-[[structure]]
-name = "brandenburger_tor"
-file = "images/brandenburger_tor.png"
-priority_file = "images/brandenburger_tor-priority.png"
-startx = 676
-starty = 828
-priority = 2
-
-[[structure]]
-name = "no_internet"
-file = "images/no_internet.png"
-priority_file = "images/no_internet-priority.png"
-startx = 323
-starty = 844
-priority = 2
-
-[[structure]]
-name = "blume"
-file = "images/blume.png"
-startx = 503
-starty = 836
-priority = 2
-
-[[structure]]
-name = "sandmann"
-file = "images/sandmann.png"
-startx = 472
-starty = 831
-priority = 2
-
-[[structure]]
-name = "ente"
-file = "images/ente.png"
-startx = 666
-starty = 850
-priority = 2
-
-[[structure]]
-name = "doenermann"
-file = "images/doenermann2.png"
-priority_file = "images/doenermann2-priority.png"
-startx = 1337
-starty = 830
-priority = 2
-
-[[structure]]
-name = "tgv"
-file = "images/tgv.png"
-startx = 434
-starty = 843
-priority = 2
-
-[[structure]]
-name = "drei_fragezeichen"
-file = "images/drei_fragezeichen.png"
-startx = 435
-starty = 830
-priority = 2
-
-[[structure]]
-name = "TU-Berlin"
-file = "images/TU-Berlin.png"
-startx = 1392
-starty = 806
-priority = 2
-
-[[structure]]
-name = "portalDackelWest"
-file = "images/dackel_west.png"
-startx = 739
-starty = 838
-priority = 2
-
-[[structure]]
-name = "portalDackelOst"
-file = "images/dackel_ost.png"
-startx = 1064
-starty = 848
-priority = 2
-
-[[structure]]
-name = "portalOrange"
-file = "images/portal_orange.png"
-startx = 756
-starty = 828
-priority = 2
-
-[[structure]]
-name = "portalBlau"
-file = "images/portal_blau.png"
-startx = 1054
-starty = 826
-priority = 2
-
-# [[structure]]
-# name = "duden"
-# file = "images/duden.png"
-# startx = 1700
-# starty = 831
-# priority = 3
-
-[[structure]]
-name = "wanderer-am-meer"
-file = "images/wanderer-am-meer.png"
-priority_file = "images/wanderer-am-meer-priority.png"
-startx = 1979
-starty = 829
-priority = 2
-
-[[structure]]
-name = "amogus"
-file = "images/amogus.png"
-startx = 1780
-starty = 781
-priority = 1
-
-# [[structure]]
-# name = "nettHier"
-# file = "images/nett_hier.png"
-# startx = 1527
-# starty = 833
-# priority = 2
-
-[[structure]]
-name = "tigerente"
-file = "images/tigerente_frosch_ukraine.png"
-priority_file = "images/tigerente_frosch_ukraine-priority.png"
-startx = 1404
-starty = 831
-priority = 2
-
-[[structure]]
-name = "animal_crossing"
-file = "images/animal_crossing.png"
-startx = 1412
-starty = 861
-priority = 2
-
-[[structure]]
-name = "schnellfahren"
-file = "images/schnellfahren.png"
-startx = 566
-starty = 846
-priority = 2
 
 #[[structure]]
-##name = "autobahn+schild"
-##file = "images/autobahn_und_schild.png"
-##startx = 1094
-##starty = 828
-##priority = 2
+#name = "bonjwa-flagge"
+#file = "../bonjwa/Flagge_191919.png"
+#startx = 360
+#starty = 53
+#priority = 0
+
 
 #[[structure]]
-#name = "arte"
-#file = "images/arte.png"
-#startx = 1126
-#starty = 838
-#priority = 2
-
-# [[structure]]
-# name = "arte2"
-# file = "images/arte2.png"
-# startx = 1127
-# starty = 830
-# priority = 2
+#name = "bonjwa-logo"
+#file = "../bonjwa/Bonjwa_Logo_27x27.png"
+#startx = 80
+#starty = 110
+#priority = 10
 
 [[structure]]
-name = "baum"
-file = "images/baum.png"
-startx = 1234
-starty = 833
-priority = 2
+name = "bonjwa-logo29"
+file = "../bonjwa/Bonjwa_Logo_29x29.png"
+startx = 282
+starty = 134
+priority = 10
+
+#[[structure]]
+#name = "bonjwa-matteo-zeigefinger"
+#file = "../bonjwa/Matteo_zeigefinger.png"
+#startx = 213
+#starty = 115
+#priority = 5
 
 [[structure]]
-name = "erdbeermarmeladenbrotMitHonig"
-file = "images/marmeladenbrot.png"
-startx = 1338
-starty = 847
+name = "bonjwa-matteo-marius"
+file = "../bonjwa/Matteo-Marius-reduced.png"
+startx = 213
+starty = 115
+priority = 5
+
+#[[structure]]
+#name = "bonjwa-matteo-150breit"
+#file = "../bonjwa/Matteo_150Breit.png"
+#startx = 300
+#starty = 131
+#priority = 1
+
+[[structure]]
+name = "spezi"
+file = "../bonjwa/ordered/spezi.png"
+startx = 801
+starty = 56
 priority = 1
 
 [[structure]]
-name = "welle"
-file = "images/welle.png"
-startx = 1921
-starty = 776
-priority = 2
-
-[[structure]]
-name = "bundestag"
-file = "images/bundestag.png"
-priority_file = "images/bundestag-priority.png"
-startx = 1694
-starty = 830
-priority = 2
-
-[[structure]]
-name = "einstein"
-file = "images/Einstein.png"
-priority_file = "images/Einstein-priority.png"
-startx = 1946
-starty = 830
-priority = 2
-
-[[structure]]
-name = "belgischerLoewe"
-file = "images/loewe.png"
-priority_file = "images/loewe-priority.png"
-startx = 1282
-starty = 830
-priority = 2
-
-[[structure]]
-name = "neuschwanstein"
-file = "images/neuschwanstein.png"
-startx = 1813
-starty = 831
-priority = 2
-
-[[structure]]
-name = "rose"
-file = "images/rose.png"
-startx = 1878
-starty = 831
-priority = 2
-
-[[structure]]
-name = "invite"
-file = "images/invite.png"
-startx = 588
-starty = 846
-priority = 2
-
-[[structure]]
-name = "beethoven"
-file = "images/beethoven.png"
-startx = 1909
-starty = 830
-priority = 2
-
-[[structure]]
-name = "mittwochsfrosch"
-file = "images/mittwochsfrosch.png"
-startx = 629
-starty = 844
-priority = 2
-
-[[structure]]
-name = "ue-ei"
-file = "images/ue-ei.png"
-startx = 1510
-starty = 830
-priority = 2
-
-[[structure]]
-name = "vw"
-file = "images/vw.png"
-startx = 1631
-starty = 847
-priority = 2
-
-[[structure]]
-name = "steckdose"
-file = "images/steckdose.png"
-startx = 1195
-starty = 829
-priority = 2
-
-[[structure]]
-name = "kleeblatt"
-file = "images/kleeblatt.png"
-startx = 1476
-starty = 805
-priority = 2
-
-[[structure]]
-name = "fachwerk"
-file = "images/fachwerk.png"
-startx = 1539
-starty = 837
-priority = 2
-
-[[structure]]
-name = "pokal"
-file = "images/pokal_brasilien.png"
-startx = 1022
-starty = 589
-priority = 2
-
-[[structure]]
-name = "arte_tv"
-file = "images/arte_tv.png"
-startx = 1129
-starty = 825
-priority = 2
-
-[[structure]]
-name = "blaubaer"
-file = "images/blaubaer.png"
-startx = 318
-starty = 1129
-priority = 2
-
-[[structure]]
-name = "grabstein"
-file = "images/grabstein.png"
-startx = 1284
-starty = 1123
-priority = 2
-
-[[structure]]
-name = "knolle"
-file = "images/knolle.png"
-startx = 1203
-starty = 831
-priority = 2
-
-[[structure]]
-name = "brezel"
-file = "images/brezel.png"
-startx = 112
-starty = 850
-priority = 2
-
-[[structure]]
-name = "lustigwagen"
-file = "images/lustigwagen.png"
-startx = 904
-starty = 1132
-priority = 2
-
-[[structure]]
-name = "lustig"
-file = "images/lustig.png"
-startx = 963
-starty = 1141
-priority = 2
-
-[[structure]]
-name = "eisbaer"
-file = "images/eisbaer.png"
-startx = 194
-starty = 1126
-priority = 2
-
-[[structure]]
-name = "auto"
-file = "images/auto.png"
-startx = 775
-starty = 1124
-priority = 1
-
-[[structure]]
-name = "rvnx"
-file = "images/rvnx.png"
-startx = 744
-starty = 647
-priority = 2
-
-
-[[structure]]
-name = "mahluna"
-file = "images/mahluna.png"
-startx = 1489
-starty = 1172
-priority = 2
-
-[[structure]]
-name = "pogostuck"
-file = "images/pogostuck.png"
-startx = 1575
-starty = 832
-priority = 2
-
-[[structure]]
-name = "start"
-file = "images/start.png"
-startx = 389
-starty = 1972
-priority = 2
-
-[[structure]]
-name = "fernsehturm"
-file = "images/fernsehturm.png"
-startx = 544
-starty = 1106
-priority = 2
-
-# [[structure]]
-# name = "denana"
-# file = "images/denana.png"
-# startx = 1705
-# starty = 1129
-# priority = 2
-
-[[structure]]
-name = "gg"
-file = "images/gg.png"
-startx = 245
-starty = 1131
-priority = 2
-
-[[structure]]
-name = "sbahn"
-file = "images/sbahn.png"
+name = "subs-schriftzug"
+file = "../bonjwa/ordered/subsLinks.png"
 startx = 0
-starty = 1121
-priority = 2
-
-[[structure]]
-name = "fast-food"
-file = "images/fast-food.png"
-startx = 88
-starty = 1129
-priority = 2
-
-[[structure]]
-name = "helm"
-file = "images/helm.png"
-startx = 542
-starty = 827
-priority = 2
-
-[[structure]]
-name = "haribo"
-file = "images/haribo.png"
-startx = 699
-starty = 1138
-priority = 2
-
-[[structure]]
-name = "pfandflasche"
-file = "images/pfandflasche.png"
-startx = 744
-starty = 1131
-priority = 2
-
-[[structure]]
-name = "elphi"
-file = "images/elphi.png"
-startx = 495
-starty = 1136
-priority = 2
-
-[[structure]]
-name = "drunkbanana"
-file = "images/drunkbanana.png"
-startx = 1016
-starty = 1148
-priority = 2
-
-[[structure]]
-name = "jfour"
-file = "images/jfour_v2.png"
-startx = 401
-starty = 1119
-priority = 2
-
-[[structure]]
-name = "dachs"
-file = "images/dachs.png"
-startx = 969
-starty = 1122
-priority = 2
-
-[[structure]]
-name = "bte"
-file = "images/BTE.png"
-startx = 1031
-starty = 1130
-priority = 2
-
-# [[structure]]
-# name = "rub"
-# file = "images/rub.png"
-# startx = 1412
-# starty = 817
-# priority = 2
-
- [[structure]]
- name = "raute"
- file = "images/raute.png"
- startx = 1567
- starty = 1136
- priority = 2
-
-[[structure]]
-name = "bremer_stadtmusikanten"
-file = "images/bremer_stadtmusikanten.png"
-startx = 1525
-starty = 1134
-priority = 2
-
-[[structure]]
-name = "dankpods"
-file = "images/dankpods.png"
-startx = 1403
-starty = 831
-priority = 2
-
-[[structure]]
-name = "jaegermeister_flasche"
-file = "images/jaegermeister_flasche.png"
-startx = 173
-starty = 1130
-priority = 2
-
-[[structure]]
-name = "israel"
-file = "images/israel.png"
-startx = 1766
-starty = 1123
-priority = 2
-
-[[structure]]
-name = "ahorn"
-file = "images/ahorn.png"
-startx = 1705
-starty = 1129
-priority = 2
-
-# [[structure]]
-# name = "goose"
-# file = "images/goose.png"
-# startx = 1723
-# starty = 1158
-# priority = 2
-
-[[structure]]
-name = "coldmirror"
-file = "images/coldmirror.png"
-startx = 354
-starty = 1122
-priority = 2
-
-[[structure]]
-name = "zug_italien"
-file = "images/zug_italien.png"
-startx = 1922
-starty = 1124
-priority = 2
-
-
-[[structure]]
-name = "koelner_dom"
-file = "images/koelner_dom.png"
-startx = 564
-starty = 1124
-priority = 2
-
-#[[structure]]
-#name = "korea"
-#file = "images/korea"
-#startx = 1981
-#starty = 1125
-#priority = 2
-
-[[structure]]
-#cars gelb auto italien
-name = "luigi"
-file = "images/luigi.png"
-startx = 844
-starty = 1122
+starty = 70
 priority = 1
 
 [[structure]]
-name = "Robbe"
-file = "images/robbe.png"
-startx = 1241
-starty = 1140
-priority = 2
-
-[[structure]]
-name = "ggPlaceDe"
-file = "images/ggPlaceDe.png"
-startx = 1935
-starty = 1130
-priority = 2
-
-[[structure]]
-name = "Krone"
-file = "images/krone.png"
-startx = 767
-starty = 1122
-priority = 2
-
-[[structure]]
-name = "Biene"
-file = "images/Biene.png"
-startx = 658
-starty = 1126
-priority = 2
-
-[[structure]]
-name = "Rainbow_Six_Pixel_Perfect"
-file = "images/Rainbow_Six_Pixel_Perfect.png"
-startx = 236
-starty = 1147
-priority = 2
-
-[[structure]]
-name = "grundgesetz"
-file = "images/grundgesetz.png"
-startx = 1680
-starty = 1128
-priority = 2
-
-[[structure]]
-name = "banner"
-file = "images/banner.png"
-startx = 1144
-starty = 1122
-priority = 2
-
-[[structure]]
-name = "banner-2"
-file = "images/banner-2.png"
-startx = 1333
-starty = 1125
-priority = 2
-
-[[structure]]
-name = "huge1"
-file = "images/huge1.png"
-priority_file = "images/huge1_priority.png"
-startx = 1194
-starty = 1120
-priority = 2
-
-[[structure]]
-name = "storch"
-file = "images/storch.png"
-startx = 1153
-starty = 1137
-priority = 2
-
-[[structure]]
-name = "cussy"
-file = "images/cussy.png"
-startx = 809
-starty = 1161
+name = "wuerde-schriftzug"
+file = "../bonjwa/ordered/wuerde.png"
+startx = 673
+starty = 51
 priority = 1
-
-[[structure]]
-name = "hoss"
-file = "images/hoss.png"
-startx = 147
-starty = 1122
-priority = 2
-
-[[structure]]
-name = "spelunky"
-file = "images/spelunky.png"
-startx = 1974
-starty = 1120
-priority = 2
-
-[[structure]]
-name = "pumuckel"
-file = "images/pumuckel.png"
-startx = 288
-starty = 1127
-priority = 2
-
-[[structure]]
-name = "NBC"
-file = "images/NBC.png"
-startx = 385
-starty = 1126
-priority = 2
