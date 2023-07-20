@@ -49,14 +49,14 @@ priority = 1
 [[structure]]
 name = "bonjwa-logo29"
 file = "../bonjwa/Bonjwa_Logo_29x29.png"
-startx = 81
+startx = 284
 starty = 111
 priority = 10
 
 [[structure]]
 name = "bonjwa-matteo-zeigefinger"
 file = "../bonjwa/Matteo_zeigefinger.png"
-startx = 10
+startx = 213
 starty = 95
 priority = 5
 
