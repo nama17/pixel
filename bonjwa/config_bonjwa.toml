@@ -95,3 +95,10 @@ priority = 5
 #startx = 673
 #starty = 51
 #priority = 1
+
+[[structure]]
+name = "bonjwa-auge"
+file = "../bonjwa/auge.png"
+startx = 200
+starty = 137
+priority = 1
