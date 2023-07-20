@@ -23,7 +23,7 @@ ignore_colors = [
 #startx = 0
 #starty = 20
 #priority = 1
-
+#
 #[[structure]]
 #name = "flage_de"
 #file = "../bonjwa/flagge_de_50-110.png"
@@ -81,14 +81,14 @@ priority = 5
 #startx = 801
 #starty = 56
 #priority = 1
-
-[[structure]]
-name = "subs-schriftzug"
-file = "../bonjwa/ordered/subsLinks.png"
-startx = 0
-starty = 70
-priority = 1
-
+#
+#[[structure]]
+#name = "subs-schriftzug"
+#file = "../bonjwa/ordered/subsLinks.png"
+#startx = 0
+#starty = 70
+#priority = 1
+#
 #[[structure]]
 #name = "wuerde-schriftzug"
 #file = "../bonjwa/ordered/wuerde.png"
