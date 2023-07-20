@@ -32,12 +32,12 @@ ignore_colors = [
 #priority = 1
 
 
-[[structure]]
-name = "flagge-uk"
-file = "../bonjwa/Flagge_UK.png"
-startx = 197
-starty = 171
-priority = 1
+#[[structure]]
+#name = "flagge-uk"
+#file = "../bonjwa/Flagge_UK.png"
+#startx = 197
+#starty = 171
+#priority = 1
 
 #[[structure]]
 #name = "bonjwa-flagge"
@@ -47,13 +47,20 @@ priority = 1
 #priority = 0
 
 
-[[structure]]
-name = "bonjwa-touri"
-file = "../bonjwa/touri.png"
-startx = 304
-starty = 147
-priority = 1
+#[[structure]]
+#name = "bonjwa-touri"
+#file = "../bonjwa/touri.png"
+#startx = 304
+#starty = 147
+#priority = 1
 
+
+[[structure]]
+name = "prinz"
+file = "../bonjwa/prinz.png"
+startx = 163
+starty = 131
+priority = 1
 
 #[[structure]]
 #name = "bonjwa-logo"
