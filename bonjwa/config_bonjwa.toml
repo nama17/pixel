@@ -47,13 +47,6 @@ ignore_colors = [
 #starty = 110
 #priority = 10
 
-[[structure]]
-name = "bonjwa-logo29"
-file = "../bonjwa/Bonjwa_Logo_29x29.png"
-startx = 282
-starty = 134
-priority = 10
-
 #[[structure]]
 #name = "bonjwa-matteo-zeigefinger"
 #file = "../bonjwa/Matteo_zeigefinger.png"
@@ -103,3 +96,9 @@ startx = 200
 starty = 137
 priority = 1
 
+[[structure]]
+name = "bonjwa-logo29"
+file = "../bonjwa/Bonjwa_Logo_29x29.png"
+startx = 282
+starty = 134
+priority = 10
