@@ -145,6 +145,6 @@ priority = 1
 [[structure]]
 name = "bonjwa-peepo2"
 file = "../bonjwa/vorlage-peepo-1zu1.png"
-startx = 188
-starty = 131
+startx = 189
+starty = 132
 priority = 1
