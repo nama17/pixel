@@ -49,8 +49,8 @@ priority = 1
 [[structure]]
 name = "bonjwa-logo29"
 file = "../bonjwa/Bonjwa_Logo_29x29.png"
-startx = 283
-starty = 130
+startx = 282
+starty = 134
 priority = 10
 
 #[[structure]]
@@ -66,3 +66,10 @@ file = "../bonjwa/Matteo-Marius-reduced.png"
 startx = 213
 starty = 115
 priority = 5
+
+[[structure]]
+name = "bonjwa-matteo-150breit"
+file = "../bonjwa/Matteo_150Breit.png"
+startx = 300
+starty = 131
+priority = 1
