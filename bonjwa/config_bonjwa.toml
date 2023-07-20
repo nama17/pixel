@@ -73,3 +73,25 @@ file = "../bonjwa/Matteo_150Breit.png"
 startx = 300
 starty = 131
 priority = 1
+
+
+[[structure]]
+name = "spezi"
+file = "../bonjwa/ordered/spezi.png"
+startx = 801
+starty = 56
+priority = 1
+
+[[structure]]
+name = "subs-schriftzug"
+file = "../bonjwa/ordered/subsLinks.png"
+startx = 0
+starty = 70
+priority = 1
+
+[[structure]]
+name = "wuerde-schriftzug"
+file = "../bonjwa/ordered/wuerde.png"
+startx = 673
+starty = 51
+priority = 1
