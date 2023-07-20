@@ -16,12 +16,12 @@ Anwendung (standalone):
 
 WIDTH_OF_PIXEL = 100
 HEIGHT_OF_PIXEL = 100
-TOP_LEFT_X = 504
-TOP_LEFT_Y = 836
+TOP_LEFT_X = -500 + 0 + (408-205)
+TOP_LEFT_Y = -500 + 89
 OFFSET_LEFT = 0
 OFFSET_TOP = 0
-INPUT_FILE = "lowenzahn.png"
-OUTPUT_FILE = "../bonjwa/output.png"
+INPUT_FILE = "../bonjwa/output_start_v2.png"
+OUTPUT_FILE = "../bonjwa/output_koordninaten_(x-205;y-389).png"
 IGNORE_COLORS = []
 
 from PIL import Image
@@ -31,7 +31,7 @@ im = Image.open(INPUT_FILE)
 width, height = im.size
 
 draw = ImageDraw.Draw(im)
-font = ImageFont.truetype("RobotoMono.ttf", 24)
+font = ImageFont.truetype("C:\Windows\Fonts\BAHNSCHRIFT.ttf", 24)
 
 num = 0
 
