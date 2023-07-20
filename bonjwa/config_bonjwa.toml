@@ -58,8 +58,8 @@ ignore_colors = [
 [[structure]]
 name = "prinz"
 file = "../bonjwa/prinz.png"
-startx = 163
-starty = 131
+startx = 166
+starty = 132
 priority = 1
 
 #[[structure]]
@@ -68,6 +68,21 @@ priority = 1
 #startx = 80
 #starty = 110
 #priority = 10
+
+[[structure]]
+name = "bonjwa-matteo-marius"
+file = "../bonjwa/Matteo-Marius-reduced.png"
+startx = 213
+starty = 115
+priority = 5
+
+[[structure]]
+name = "bonjwa-logo-verbessert"
+file = "../bonjwa/bonjwa_logo_verbessert.png"
+startx = 270
+starty = 132
+priority = 10
+
 
 [[structure]]
 name = "bonjwa-logo29"
@@ -83,13 +98,6 @@ priority = 10
 #startx = 213
 #starty = 115
 #priority = 5
-
-[[structure]]
-name = "bonjwa-matteo-marius"
-file = "../bonjwa/Matteo-Marius-reduced.png"
-startx = 213
-starty = 115
-priority = 5
 
 #[[structure]]
 #name = "bonjwa-matteo-150breit"
