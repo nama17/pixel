@@ -20,7 +20,7 @@ ignore_colors = [
 name = "flage_nl"
 file = "../bonjwa/flagge_nl_0-49.png"
 startx = 0
-starty = 0
+starty = 20
 priority = 1
 
 [[structure]]
