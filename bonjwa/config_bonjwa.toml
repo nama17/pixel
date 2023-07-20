@@ -53,10 +53,16 @@ startx = 284
 starty = 131
 priority = 10
 
+#[[structure]]
+#name = "bonjwa-matteo-zeigefinger"
+#file = "../bonjwa/Matteo_zeigefinger.png"
+#startx = 213
+#starty = 115
+#priority = 5
+
 [[structure]]
-name = "bonjwa-matteo-zeigefinger"
-file = "../bonjwa/Matteo_zeigefinger.png"
+name = "bonjwa-matteo-marius"
+file = "../bonjwa/Matteo-Marius-reduced.png"
 startx = 213
 starty = 115
 priority = 5
-
