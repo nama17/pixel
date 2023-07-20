@@ -24,12 +24,12 @@ ignore_colors = [
 #starty = 20
 #priority = 1
 
-[[structure]]
-name = "flage_de"
-file = "../bonjwa/flagge_de_50-110.png"
-startx = 0
-starty = 50
-priority = 1
+#[[structure]]
+#name = "flage_de"
+#file = "../bonjwa/flagge_de_50-110.png"
+#startx = 0
+#starty = 50
+#priority = 1
 
 
 #[[structure]]
@@ -75,12 +75,12 @@ priority = 5
 #starty = 131
 #priority = 1
 
-[[structure]]
-name = "spezi"
-file = "../bonjwa/ordered/spezi.png"
-startx = 801
-starty = 56
-priority = 1
+#[[structure]]
+#name = "spezi"
+#file = "../bonjwa/ordered/spezi.png"
+#startx = 801
+#starty = 56
+#priority = 1
 
 [[structure]]
 name = "subs-schriftzug"
@@ -89,9 +89,9 @@ startx = 0
 starty = 70
 priority = 1
 
-[[structure]]
-name = "wuerde-schriftzug"
-file = "../bonjwa/ordered/wuerde.png"
-startx = 673
-starty = 51
-priority = 1
+#[[structure]]
+#name = "wuerde-schriftzug"
+#file = "../bonjwa/ordered/wuerde.png"
+#startx = 673
+#starty = 51
+#priority = 1
