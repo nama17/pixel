@@ -6,8 +6,8 @@
 // @author       Chris-GW
 // @match        https://garlic-bread.reddit.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://github.com/placeDE/place-overlay/raw/main/src/scripts/placeDE-overlay.user.js
-// @downloadURL  https://github.com/placeDE/place-overlay/raw/main/src/scripts/placeDE-overlay.user.js
+// @updateURL    https://github.com/Chris-GW/pixel/raw/main/bonjwa/placeDE-overlay.user.js
+// @downloadURL  https://github.com/Chris-GW/pixel/raw/main/bonjwa/placeDE-overlay.user.js
 // ==/UserScript==
 let url = "https://raw.githubusercontent.com/Chris-GW/pixel/main/bonjwa/overlay.png"
 
