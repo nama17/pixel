@@ -67,9 +67,10 @@ startx = 213
 starty = 115
 priority = 5
 
-[[structure]]
-name = "bonjwa-matteo-150breit"
-file = "../bonjwa/Matteo_150Breit.png"
-startx = 300
-starty = 131
-priority = 1
+#[[structure]]
+#name = "bonjwa-matteo-150breit"
+#file = "../bonjwa/Matteo_150Breit.png"
+#startx = 300
+#starty = 131
+#priority = 1
+
