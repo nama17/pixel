@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         r/placeDE Template
-// @namespace    http://tampermonkey.net/
-// @version      3
+// @namespace    littleendu.xyz
+// @version      4
 // @description  try to take over the canvas!
 // @author       Chris-GW, nama17
 // @match        https://garlic-bread.reddit.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=reddit.com
-// @updateURL    https://raw.githubusercontent.com/nama17/pixel/main/userscript.js
-// @downloadURL  https://raw.githubusercontent.com/nama17/pixel/main/userscript.js
+// @updateURL    https://github.com/nama17/pixel/raw/main/userscript.js
+// @downloadURL  https://github.com/nama17/pixel/raw/main/userscript.js
 // ==/UserScript==
 let url = "https://raw.githubusercontent.com/nama17/pixel/main/overlay.png"
 
@@ -23,4 +23,3 @@ if (window.top !== window.self) {
             })())
     }, false);
 }
-
