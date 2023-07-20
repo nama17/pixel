@@ -17,6 +17,13 @@ ignore_colors = [
 "3" = 10
 
 [[structure]]
+name = "flage_nl"
+file = "../bonjwa/flagge_nl_0-49.png"
+startx = 0
+starty = 0
+priority = 1
+
+[[structure]]
 name = "flage_de"
 file = "../bonjwa/flagge_de_50-110.png"
 startx = 0

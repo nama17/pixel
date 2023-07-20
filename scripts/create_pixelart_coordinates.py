@@ -21,7 +21,7 @@ TOP_LEFT_Y = 836
 OFFSET_LEFT = 0
 OFFSET_TOP = 0
 INPUT_FILE = "lowenzahn.png"
-OUTPUT_FILE = "output.png"
+OUTPUT_FILE = "../bonjwa/output.png"
 IGNORE_COLORS = []
 
 from PIL import Image
