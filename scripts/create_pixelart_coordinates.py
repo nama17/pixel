@@ -16,12 +16,12 @@ Anwendung (standalone):
 
 WIDTH_OF_PIXEL = 100
 HEIGHT_OF_PIXEL = 100
-TOP_LEFT_X = -500 + 203
-TOP_LEFT_Y = -500 + 109
+TOP_LEFT_X = -500 + 213
+TOP_LEFT_Y = -500 + 115
 OFFSET_LEFT = 0
 OFFSET_TOP = 0
-INPUT_FILE = "../bonjwa/output_start_v2.png"
-OUTPUT_FILE = "../bonjwa/output_koordninaten_(x-205;y-369).png"
+INPUT_FILE = "../bonjwa/Matteo-Marius-reduced_groß.png"
+OUTPUT_FILE = "../bonjwa/Matteo-Marius-reduced_koordinaten.png"
 IGNORE_COLORS = []
 
 from PIL import Image

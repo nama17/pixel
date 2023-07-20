@@ -49,8 +49,8 @@ priority = 1
 [[structure]]
 name = "bonjwa-logo29"
 file = "../bonjwa/Bonjwa_Logo_29x29.png"
-startx = 284
-starty = 131
+startx = 283
+starty = 130
 priority = 10
 
 #[[structure]]
