@@ -17,81 +17,31 @@ ignore_colors = [
 "2" = 5
 "3" = 10
 
-#[[structure]]
-#name = "flage_nl"
-#file = "../bonjwa/flagge_nl_0-49.png"
-#startx = 0
-#starty = 20
-#priority = 1
-
-[[structure]]
-name = "flage_de"
-file = "../bonjwa/flagge_de_50-110.png"
-startx = 0
-starty = 50
-priority = 1
-
-
-#[[structure]]
-#name = "bonjwa-flagge"
-#file = "../bonjwa/Flagge_191919.png"
-#startx = 360
-#starty = 53
-#priority = 0
-
-
-#[[structure]]
-#name = "bonjwa-logo"
-#file = "../bonjwa/Bonjwa_Logo_27x27.png"
-#startx = 80
-#starty = 110
-#priority = 10
-
 [[structure]]
 name = "bonjwa-logo29"
-file = "../bonjwa/Bonjwa_Logo_29x29.png"
+file = "bonjwa/Bonjwa_Logo_29x29.png"
 startx = 282
 starty = 134
 priority = 10
 
-#[[structure]]
-#name = "bonjwa-matteo-zeigefinger"
-#file = "../bonjwa/Matteo_zeigefinger.png"
-#startx = 213
-#starty = 115
-#priority = 5
 
 [[structure]]
 name = "bonjwa-matteo-marius"
-file = "../bonjwa/Matteo-Marius-reduced.png"
+file = "bonjwa/Matteo-Marius-reduced.png"
 startx = 213
 starty = 115
 priority = 5
 
-#[[structure]]
-#name = "bonjwa-matteo-150breit"
-#file = "../bonjwa/Matteo_150Breit.png"
-#startx = 300
-#starty = 131
-#priority = 1
-
 [[structure]]
-name = "spezi"
-file = "../bonjwa/ordered/spezi.png"
-startx = 801
-starty = 56
+name = "prinz"
+file = "bonjwa/prinz.png"
+startx = 166
+starty = 132
 priority = 1
 
 [[structure]]
-name = "subs-schriftzug"
-file = "../bonjwa/ordered/subsLinks.png"
-startx = 0
-starty = 70
-priority = 1
-
-[[structure]]
-name = "wuerde-schriftzug"
-file = "../bonjwa/ordered/wuerde.png"
-startx = 673
-starty = 51
+name = "bonjwa-peepo2"
+file = "bonjwa/vorlage-peepo-1zu1.png"
+startx = 189
+starty = 132
 priority = 1
