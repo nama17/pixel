@@ -9,7 +9,7 @@
 // @updateURL    https://github.com/nama17/pixel/raw/main/overlay.user.js
 // @downloadURL  https://github.com/nama17/pixel/raw/main/overlay.user.js
 // ==/UserScript==
-let url = "https://raw.githubusercontent.com/nama17/pixel/main/overlay.png"
+let url = "https://raw.githubusercontent.com/HerrGraph/pixel/main/bonjwa/overlay.png"
 
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
