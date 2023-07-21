@@ -69,7 +69,7 @@ priority = 2
 
 [[structure]]
 name = "HeartDE"
-file = "bonjwa/heart_placede_bonjwa.png"
-startx = 275
+file = "bonjwa/deheart.png"
+startx = 320
 starty = 130
 priority = 2
