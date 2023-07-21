@@ -45,3 +45,18 @@ file = "bonjwa/vorlage-peepo-1zu1.png"
 startx = 189
 starty = 132
 priority = 1
+
+[[structure]]
+name = "HerzAlbanien"
+file = "bonjwa/Herz.png"
+startx = 200
+starty = 154
+priority = 1
+
+[[structure]]
+name = "HerzUK"
+file = "bonjwa/Herz.png"
+startx = 279
+starty = 162
+priority = 1
+
