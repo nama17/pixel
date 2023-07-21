@@ -49,14 +49,14 @@ priority = 1
 [[structure]]
 name = "HerzAlbanien"
 file = "bonjwa/Herz.png"
-startx = 200
+startx = 198
 starty = 154
 priority = 1
 
 [[structure]]
 name = "HerzUK"
 file = "bonjwa/Herz.png"
-startx = 279
-starty = 162
+startx = 280
+starty = 167
 priority = 1
 
