@@ -9,20 +9,50 @@
             "priority": 1,
             "pixels": [
                 {
-                    "x": 281,
+                    "x": 280,
                     "y": 168,
                     "color": 27,
                     "priority": 128
                 },
                 {
-                    "x": 281,
+                    "x": 280,
                     "y": 169,
                     "color": 27,
                     "priority": 128
                 },
                 {
+                    "x": 280,
+                    "y": 170,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 281,
+                    "y": 167,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 281,
+                    "y": 168,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 281,
+                    "y": 169,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
                     "x": 281,
                     "y": 170,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 281,
+                    "y": 171,
                     "color": 27,
                     "priority": 128
                 },
@@ -53,19 +83,19 @@
                 {
                     "x": 282,
                     "y": 171,
-                    "color": 27,
+                    "color": 2,
                     "priority": 128
                 },
                 {
-                    "x": 283,
-                    "y": 167,
+                    "x": 282,
+                    "y": 172,
                     "color": 27,
                     "priority": 128
                 },
                 {
                     "x": 283,
                     "y": 168,
-                    "color": 2,
+                    "color": 27,
                     "priority": 128
                 },
                 {
@@ -89,125 +119,95 @@
                 {
                     "x": 283,
                     "y": 172,
-                    "color": 27,
-                    "priority": 128
-                },
-                {
-                    "x": 284,
-                    "y": 168,
-                    "color": 27,
-                    "priority": 128
-                },
-                {
-                    "x": 284,
-                    "y": 169,
                     "color": 2,
                     "priority": 128
                 },
                 {
-                    "x": 284,
-                    "y": 170,
-                    "color": 2,
-                    "priority": 128
-                },
-                {
-                    "x": 284,
-                    "y": 171,
-                    "color": 2,
-                    "priority": 128
-                },
-                {
-                    "x": 284,
-                    "y": 172,
-                    "color": 2,
-                    "priority": 128
-                },
-                {
-                    "x": 284,
+                    "x": 283,
                     "y": 173,
                     "color": 27,
                     "priority": 128
                 },
                 {
-                    "x": 285,
+                    "x": 284,
                     "y": 167,
                     "color": 27,
                     "priority": 128
                 },
                 {
-                    "x": 285,
+                    "x": 284,
                     "y": 168,
                     "color": 2,
                     "priority": 128
                 },
                 {
-                    "x": 285,
+                    "x": 284,
                     "y": 169,
                     "color": 2,
                     "priority": 128
                 },
                 {
-                    "x": 285,
+                    "x": 284,
                     "y": 170,
                     "color": 2,
                     "priority": 128
                 },
                 {
-                    "x": 285,
+                    "x": 284,
                     "y": 171,
                     "color": 2,
                     "priority": 128
                 },
                 {
-                    "x": 285,
+                    "x": 284,
                     "y": 172,
                     "color": 27,
                     "priority": 128
                 },
                 {
-                    "x": 286,
+                    "x": 285,
                     "y": 167,
                     "color": 27,
                     "priority": 128
                 },
                 {
-                    "x": 286,
+                    "x": 285,
                     "y": 168,
                     "color": 2,
                     "priority": 128
                 },
                 {
-                    "x": 286,
+                    "x": 285,
                     "y": 169,
                     "color": 2,
                     "priority": 128
                 },
                 {
-                    "x": 286,
+                    "x": 285,
                     "y": 170,
                     "color": 2,
                     "priority": 128
                 },
                 {
-                    "x": 286,
+                    "x": 285,
                     "y": 171,
                     "color": 27,
                     "priority": 128
                 },
                 {
-                    "x": 287,
+                    "x": 286,
                     "y": 168,
                     "color": 27,
                     "priority": 128
                 },
                 {
-                    "x": 287,
+                    "x": 286,
                     "y": 169,
                     "color": 27,
                     "priority": 128
                 },
                 {
-                    "x": 287,
+                    "x": 286,
                     "y": 170,
                     "color": 27,
                     "priority": 128

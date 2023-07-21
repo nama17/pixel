@@ -56,7 +56,7 @@ priority = 1
 [[structure]]
 name = "HerzUK"
 file = "bonjwa/Herz.png"
-startx = 281
+startx = 280
 starty = 167
 priority = 1
 
