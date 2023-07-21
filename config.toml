@@ -52,3 +52,17 @@ file = "bonjwa/auge.png"
 startx = 210
 starty = 156
 priority = 1
+
+[[structure]]
+name = "HerzAlbanien"
+file = "bonjwa/Herz.png"
+startx = 198
+starty = 154
+priority = 1
+
+[[structure]]
+name = "HerzUK"
+file = "bonjwa/Herz.png"
+startx = 280
+starty = 167
+priority = 1
