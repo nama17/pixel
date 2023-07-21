@@ -54,13 +54,6 @@ starty = 156
 priority = 1
 
 [[structure]]
-name = "unionJack"
-file = "bonjwa/unionjack.png"
-startx = 181
-starty = 170
-priority = 1
-
-[[structure]]
 name = "HerzAlbanien"
 file = "bonjwa/Herz.png"
 startx = 198
