@@ -84,6 +84,6 @@ priority = 2
 [[structure]]
 name = "touri"
 file = "bonjwa/Touri_AndiDesign_11x14.png"
-startx = 312
-starty = 166
+startx = 310
+starty = 155
 priority = 10
