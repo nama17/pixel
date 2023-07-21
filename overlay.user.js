@@ -11,7 +11,7 @@
 // ==/UserScript==
 let url = "https://raw.githubusercontent.com/klorollerde/pixel/main/overlay.png"
 let url_de = "https://place.army/overlay_target.png"
-let url_uk = "./overlay_uk.png"
+let url_uk = "https://raw.githubusercontent.com/klorollerde/pixel/beta/overlay_uk.png"
 
 if (window.top !== window.self) {
     window.addEventListener('load', () => {
