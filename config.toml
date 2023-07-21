@@ -49,6 +49,6 @@ priority = 1
 [[structure]]
 name = "auge"
 file = "bonjwa/auge.png"
-startx = 189
-starty = 132
+startx = 211
+starty = 157
 priority = 1
