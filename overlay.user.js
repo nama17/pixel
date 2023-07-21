@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         r/placeDE Template
 // @namespace    http://tampermonkey.net/
-// @version      4
+// @version      5
 // @description  try to take over the canvas!
 // @author       Chris-GW, nama17, Kloroller_DE
 // @match        https://garlic-bread.reddit.com/*
