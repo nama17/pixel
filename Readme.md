@@ -35,6 +35,7 @@ NICHT _pixel.json_, _output.png_ oder _overlay.png_ pushen, das verursacht Merge
 
 **6. Pull Request zum main stellen und von anderem Dev prüfen lassen** 
 
+
 **7. Beten, dass die Actions funktionieren und weinen, wenn sie es nicht tun**
 
 
