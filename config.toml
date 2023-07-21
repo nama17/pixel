@@ -47,22 +47,29 @@ starty = 132
 priority = 1
 
 [[structure]]
-name = "auge"
+name = "kekluckeye"
 file = "bonjwa/auge.png"
 startx = 210
 starty = 156
 priority = 1
 
 [[structure]]
-name = "HerzAlbanien"
-file = "bonjwa/Herz.png"
+name = "HeartArmenia"
+file = "bonjwa/heart_bonjwa_armenia.png"
 startx = 198
 starty = 154
 priority = 1
 
 [[structure]]
-name = "HerzUK"
+name = "HeartUK"
 file = "bonjwa/Herz.png"
 startx = 281
 starty = 167
-priority = 1
+priority = 2
+
+[[structure]]
+name = "HeartDE"
+file = "bonjwa/heart_placede_bonjwa.png"
+startx = 275
+starty = 130
+priority = 2
