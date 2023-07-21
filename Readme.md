@@ -30,4 +30,4 @@ WICHTIG: In der _output.png_ gucken, dass die Bilder richtig platziert wurden un
 Mithilfe der Dockerfile kann ein Image/Container erstellt werden, welcher bereits für die Ausführung der Python Skripts konfiguriert ist.
 
 
-**6. Pull Request erstellen und von anderem Dev prüfen lassen** 
+**4. Pull Request erstellen und von anderem Dev prüfen lassen** 
