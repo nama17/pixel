@@ -20,8 +20,8 @@ ignore_colors = [
 [[structure]]
 name = "flaguk"
 file = "bonjwa/uk_flag_pixelart.png"
-startx = 181
-starty = 171
+startx = 166
+starty = 170
 priority = 10
 
 [[structure]]
