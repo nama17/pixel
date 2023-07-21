@@ -52,10 +52,3 @@ file = "bonjwa/auge.png"
 startx = 210
 starty = 156
 priority = 1
-
-[[structure]]
-name = "uk_flagge"
-file = "bonjwa/Flagge_UK.png"
-startx = 170
-starty = 171
-priority = 1
