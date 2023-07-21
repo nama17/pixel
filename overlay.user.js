@@ -9,7 +9,7 @@
 // @updateURL    https://github.com/klorollerde/pixel/raw/main/overlay.user.js
 // @downloadURL  https://github.com/klorollerde/pixel/raw/main/overlay.user.js
 // ==/UserScript==
-let url = "https://raw.githubusercontent.com/klorollerde/pixel/main/overlay.png"
+let url = "https://raw.githubusercontent.com/klorollerde/pixel/dev-kloroller/overlay.png"
 let url_de = "https://place.army/overlay_target.png"
 /*let url_uk = "https://raw.githubusercontent.com/klorollerde/pixel/beta/overlay_uk.png"*/
 
