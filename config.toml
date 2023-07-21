@@ -80,3 +80,10 @@ file = "bonjwa/deheart.png"
 startx = 320
 starty = 130
 priority = 2
+
+[[structure]]
+name = "touri"
+file = "bonjwa/Touri_AndiDesign_11x14.png"
+startx = 310
+starty = 155
+priority = 10
