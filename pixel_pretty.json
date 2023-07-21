@@ -5,8 +5,217 @@
         "nodejs": 1
     },
     "structures": {
-        "HerzUK": {
-            "priority": 1,
+        "HeartDE": {
+            "priority": 2,
+            "pixels": [
+                {
+                    "x": 320,
+                    "y": 131,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 320,
+                    "y": 132,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 320,
+                    "y": 133,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 321,
+                    "y": 130,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 321,
+                    "y": 131,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 321,
+                    "y": 132,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 321,
+                    "y": 133,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 321,
+                    "y": 134,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 322,
+                    "y": 130,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 322,
+                    "y": 131,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 322,
+                    "y": 132,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 322,
+                    "y": 133,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 322,
+                    "y": 134,
+                    "color": 4,
+                    "priority": 128
+                },
+                {
+                    "x": 322,
+                    "y": 135,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 323,
+                    "y": 131,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 323,
+                    "y": 132,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 323,
+                    "y": 133,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 323,
+                    "y": 134,
+                    "color": 4,
+                    "priority": 128
+                },
+                {
+                    "x": 323,
+                    "y": 135,
+                    "color": 4,
+                    "priority": 128
+                },
+                {
+                    "x": 323,
+                    "y": 136,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 324,
+                    "y": 130,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 324,
+                    "y": 131,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 324,
+                    "y": 132,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 324,
+                    "y": 133,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 324,
+                    "y": 134,
+                    "color": 4,
+                    "priority": 128
+                },
+                {
+                    "x": 324,
+                    "y": 135,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 325,
+                    "y": 130,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 325,
+                    "y": 131,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 325,
+                    "y": 132,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 325,
+                    "y": 133,
+                    "color": 2,
+                    "priority": 128
+                },
+                {
+                    "x": 325,
+                    "y": 134,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 326,
+                    "y": 131,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 326,
+                    "y": 132,
+                    "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 326,
+                    "y": 133,
+                    "color": 27,
+                    "priority": 128
+                }
+            ]
+        },
+        "HeartUK": {
+            "priority": 2,
             "pixels": [
                 {
                     "x": 281,
@@ -214,11 +423,17 @@
                 }
             ]
         },
-        "HerzAlbanien": {
+        "HeartArmenia": {
             "priority": 1,
             "pixels": [
                 {
                     "x": 198,
+                    "y": 154,
+                    "color": 31,
+                    "priority": 128
+                },
+                {
+                    "x": 198,
                     "y": 155,
                     "color": 27,
                     "priority": 128
@@ -250,13 +465,13 @@
                 {
                     "x": 199,
                     "y": 156,
-                    "color": 2,
+                    "color": 13,
                     "priority": 128
                 },
                 {
                     "x": 199,
                     "y": 157,
-                    "color": 2,
+                    "color": 3,
                     "priority": 128
                 },
                 {
@@ -280,25 +495,31 @@
                 {
                     "x": 200,
                     "y": 156,
-                    "color": 2,
+                    "color": 13,
                     "priority": 128
                 },
                 {
                     "x": 200,
                     "y": 157,
-                    "color": 2,
+                    "color": 3,
                     "priority": 128
                 },
                 {
                     "x": 200,
                     "y": 158,
-                    "color": 2,
+                    "color": 6,
                     "priority": 128
                 },
                 {
                     "x": 200,
                     "y": 159,
                     "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 201,
+                    "y": 154,
+                    "color": 31,
                     "priority": 128
                 },
                 {
@@ -310,25 +531,25 @@
                 {
                     "x": 201,
                     "y": 156,
-                    "color": 2,
+                    "color": 13,
                     "priority": 128
                 },
                 {
                     "x": 201,
                     "y": 157,
-                    "color": 2,
+                    "color": 3,
                     "priority": 128
                 },
                 {
                     "x": 201,
                     "y": 158,
-                    "color": 2,
+                    "color": 6,
                     "priority": 128
                 },
                 {
                     "x": 201,
                     "y": 159,
-                    "color": 2,
+                    "color": 6,
                     "priority": 128
                 },
                 {
@@ -352,19 +573,19 @@
                 {
                     "x": 202,
                     "y": 156,
-                    "color": 2,
+                    "color": 13,
                     "priority": 128
                 },
                 {
                     "x": 202,
                     "y": 157,
-                    "color": 2,
+                    "color": 3,
                     "priority": 128
                 },
                 {
                     "x": 202,
                     "y": 158,
-                    "color": 2,
+                    "color": 6,
                     "priority": 128
                 },
                 {
@@ -388,19 +609,25 @@
                 {
                     "x": 203,
                     "y": 156,
-                    "color": 2,
+                    "color": 13,
                     "priority": 128
                 },
                 {
                     "x": 203,
                     "y": 157,
-                    "color": 2,
+                    "color": 3,
                     "priority": 128
                 },
                 {
                     "x": 203,
                     "y": 158,
                     "color": 27,
+                    "priority": 128
+                },
+                {
+                    "x": 204,
+                    "y": 154,
+                    "color": 4,
                     "priority": 128
                 },
                 {
@@ -423,7 +650,7 @@
                 }
             ]
         },
-        "auge": {
+        "kekluckeye": {
             "priority": 1,
             "pixels": [
                 {
@@ -2430,12 +2657,6 @@
                     "priority": 128
                 },
                 {
-                    "x": 198,
-                    "y": 154,
-                    "color": 31,
-                    "priority": 128
-                },
-                {
                     "x": 199,
                     "y": 132,
                     "color": 27,
@@ -2832,12 +3053,6 @@
                     "priority": 128
                 },
                 {
-                    "x": 201,
-                    "y": 154,
-                    "color": 31,
-                    "priority": 128
-                },
-                {
                     "x": 202,
                     "y": 132,
                     "color": 27,
@@ -3230,12 +3445,6 @@
                 {
                     "x": 204,
                     "y": 153,
-                    "color": 4,
-                    "priority": 128
-                },
-                {
-                    "x": 204,
-                    "y": 154,
                     "color": 4,
                     "priority": 128
                 },
